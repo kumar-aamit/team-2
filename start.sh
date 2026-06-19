@@ -2,7 +2,7 @@
 # Machine Downtime Log - Startup Script
 # Demonstrates port checking and proper startup sequence....
 
-echo "🚀 Starting Machine Downtime Log..."
+echo "🚀 Starting Machine Downtime Log..lll."
 
 # Check if .env exists, if not copy from example
 if [ ! -f hermes/.env ]; then
