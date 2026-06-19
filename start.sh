@@ -1,6 +1,6 @@
 #!/bin/bash
 # Machine Downtime Log - Startup Script
-# Demonstrates port checking and proper startup sequence
+# Demonstrates port checking and proper startup sequence....
 
 echo "🚀 Starting Machine Downtime Log..."
 
